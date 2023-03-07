@@ -1,0 +1,586 @@
+location,date,species,vial,count,method,notes,fruit,season
+HPO,9/3/2019,Zaprionus indianus,1,208,,,peaches,
+HPO,9/3/2019,Zaprionus indianus,2,450,,,peaches,
+HPO,9/3/2019,Zaprionus indianus,3,366,,,peaches,
+HPO,9/3/2019,other,1,25,,,peaches,
+HPO,9/3/2019,other,2,28,,,peaches,
+HPO,9/3/2019,other,3,34,,,peaches,
+CM,9/6/2019,Zaprionus indianus,1,142,,,peaches,
+CM,9/6/2019,Zaprionus indianus,2,266,,,peaches,
+CM,9/6/2019,other,1,87,,,peaches,
+CM,9/6/2019,other,2,153,,,peaches,
+CM,10/1/2019,Zaprionus indianus,1,65,,males; road,apples,
+CM,10/1/2019,Zaprionus indianus,2,64,,male zaps; granny smith apples,apples,
+CM,10/1/2019,Zaprionus indianus,3,80,,"females use to set isofemale lines (40 road, 40 granny smith)",apples,
+CM,10/1/2019,other,1,116,,,apples,
+CM,10/1/2019,other,,145,,,apples,
+CM,10/26/2019,Zaprionus indianus,1,52,,zap males,apples,
+CM,10/26/2019,Zaprionus indianus,2,22,,extra zap females,apples,
+CM,10/26/2019,Zaprionus indianus,3,30,,zap isofemale lines-confirm this number,apples,
+CM,10/26/2019,other,1,191,,,apples,
+HPO,7/2/2020,other,1,999,,did not actually count but zero Zap,peaches,
+HPO,7/2/2020,Zaprionus indianus,1,0,,,peaches,
+CM,7/3/2020,other,1,999,,,peaches,
+CM,7/3/2020,Zaprionus indianus,1,0,,,peaches,
+HPO,7/16/2020,Zaprionus indianus,1,5,,,peaches,
+HPO,7/16/2020,other,1,409,,,peaches,
+CM,7/17/2020,Zaprionus indianus,all,23,,,peaches,
+CM,7/17/2020,other,all,829,,,peaches,
+HPO,8/4/2020,Zaprionus indianus,1,44,,,peaches,
+HPO,8/4/2020,Zaprionus indianus,2,21,,,peaches,
+HPO,8/4/2020,Zaprionus indianus,3,47,,,peaches,
+HPO,8/4/2020,Zaprionus indianus,4,83,,,peaches,
+HPO,8/4/2020,Zaprionus indianus,5,28,,,peaches,
+HPO,8/4/2020,Zaprionus indianus,6,81,,,peaches,
+HPO,8/4/2020,other,1,16,,,peaches,
+HPO,8/4/2020,other,2,17,,,peaches,
+HPO,8/4/2020,other,3,56,,,peaches,
+HPO,8/4/2020,other,4,25,,,peaches,
+HPO,8/4/2020,other,5,82,,,peaches,
+HPO,8/4/2020,other,6,110,,,peaches,
+CM,8/5/2020,Zaprionus indianus,1,11,,,peaches,
+CM,8/5/2020,Zaprionus indianus,2,25,,,peaches,
+CM,8/5/2020,Zaprionus indianus,3,8,,,peaches,
+CM,8/5/2020,Zaprionus indianus,5,34,,,peaches,
+CM,8/5/2020,Zaprionus indianus,6,14,,,peaches,
+CM,8/5/2020,other,1,73,,,peaches,
+CM,8/5/2020,other,2,97,,,peaches,
+CM,8/5/2020,other,3,56,,,peaches,
+CM,8/5/2020,other,5,93,,,peaches,
+CM,8/5/2020,other,6,74,,,peaches,
+HPO,8/20/2020,Zaprionus indianus,1,24,net,,pile,
+HPO,8/20/2020,other,1,28,net,,pile,
+HPO,8/20/2020,Zaprionus indianus,2,58,net,,pile,
+HPO,8/20/2020,other,2,81,net,,pile,
+HPO,8/20/2020,other,3,55,net,,peaches-barn,
+HPO,8/20/2020,Zaprionus indianus,3,192,net,,peaches-barn,
+HPO,8/20/2020,other,4,47,net,,peaches-back,
+HPO,8/20/2020,Zaprionus indianus,4,288,net,,peaches-back,
+CM,8/21/2020,other,1,19,net,,apples,
+CM,8/21/2020,Zaprionus indianus,1,8,net,,apples,
+CM,8/21/2020,other,2,47,asp,,apples,
+CM,8/21/2020,Zaprionus indianus,2,7,asp,,apples,
+CM,8/21/2020,other,3,30,asp,,peaches,
+CM,8/21/2020,Zaprionus indianus,3,10,asp,,peaches,
+CM,8/21/2020,Zaprionus indianus,4,107,net,,peaches,
+CM,8/21/2020,other,4,87,net,,peaches,
+CM,8/21/2020,Zaprionus indianus,5,30,net,,peaches,
+CM,8/21/2020,other,5,36,net,,peaches,
+HPO,9/3/2020,Zaprionus indianus,1,289,net,,peaches-back,
+HPO,9/3/2020,other,1,10,net,,peaches-back,
+HPO,9/3/2020,Zaprionus indianus,1,237,net,,peaches-barn,
+HPO,9/3/2020,other,1,23,net,,peaches-barn,
+HPO,9/3/2020,Zaprionus indianus,2,153,net,abundant mites on some,pile,
+HPO,9/3/2020,other,2,120,net,,pile,
+HPO,9/3/2020,Zaprionus indianus,1,179,net,abundant mites on some,pile,
+HPO,9/3/2020,other,1,151,net,,pile,
+CM,9/4/2020,Zaprionus indianus,2,73,net,,peaches,
+CM,9/4/2020,other,2,68,net,,peaches,
+CM,9/4/2020,Zaprionus indianus,1,19,net,,apples,
+CM,9/4/2020,other,1,21,net,,apples,
+CM,9/4/2020,Zaprionus indianus,2,11,net,,apples,
+CM,9/4/2020,other,2,25,net,,apples,
+CM,9/4/2020,Zaprionus indianus,1,145,net,,peaches,
+CM,9/4/2020,other,1,376,net,,peaches,
+HPO,9/17/2020,Zaprionus indianus,1,44,asp,,peaches,
+HPO,9/17/2020,other,1,70,asp,,peaches,
+HPO,9/17/2020,Zaprionus indianus,2,107,asp,,peaches,
+HPO,9/17/2020,other,2,81,asp,,peaches,
+CM,9/18/2020,Zaprionus indianus,1,77,asp,,peaches,
+CM,9/18/2020,other,1,158,asp,,peaches,
+CM,9/18/2020,Zaprionus indianus,2,51,asp,,peaches,
+CM,9/18/2020,other,2,130,asp,,peaches,
+CM,9/18/2020,Zaprionus indianus,1,30,asp,,apples-golden,
+CM,9/18/2020,other,1,94,asp,,apples-golden,
+CM,9/18/2020,Zaprionus indianus,2,19,asp,,apples-golden,
+CM,9/18/2020,other,2,125,asp,,apples-golden,
+CM,9/30/2020,Zaprionus indianus,1,27,asp,,peaches,
+CM,9/30/2020,other,1,65,asp,,peaches,
+CM,9/30/2020,Zaprionus indianus,1,6,asp,,apples-golddel,
+CM,9/30/2020,other,1,58,asp,,apples-golddel,
+CM,9/30/2020,Zaprionus indianus,1,46,net,,apples-golddel,
+CM,9/30/2020,other,1,172,net,,apples-golddel,
+HPO,10/1/2020,Zaprionus indianus,1,118,asp,,apples-pinklady,
+HPO,10/1/2020,other,1,22,asp,,apples-pinklady,
+HPO,10/1/2020,Zaprionus indianus,2,92,asp,,apples-pinklady,
+HPO,10/1/2020,other,2,17,asp,,apples-pinklady,
+HPO,10/1/2020,Zaprionus indianus,1,35,net,,apples-pinklady,
+HPO,10/1/2020,other,1,7,net,,apples-pinklady,
+CM,10/14/2020,Zaprionus indianus,1,6,net,,apples-golddel,
+CM,10/14/2020,other,1,99,net,,apples-golddel,
+CM,10/14/2020,Zaprionus indianus,1,4,net,,apples-stayman,
+CM,10/14/2020,other,1,223,net,,apples-stayman,
+CM,10/14/2020,Zaprionus indianus,1,8,asp,,apples-golddel,
+CM,10/14/2020,other,1,149,asp,,apples-golddel,
+HPO,10/15/2020,Zaprionus indianus,1,20,asp,danitol spray,apples-pinklady,
+HPO,10/15/2020,other,1,17,asp,danitol spray,apples-pinklady,
+CM,10/28/2020,Zaprionus indianus,1,12,net,,apples-jonathon?,
+CM,10/28/2020,other,1,16,net,,apples-jonathon?,
+CM,10/28/2020,Zaprionus indianus,1,47,asp,,apples-jonathon?,
+CM,10/28/2020,other,1,100,asp,,apples-jonathon?,
+CM,10/28/2020,Zaprionus indianus,2,52,asp,,apples-jonathon?,
+CM,10/28/2020,other,2,70,asp,,apples-jonathon?,
+HPO,10/29/2020,Zaprionus indianus,1,75,net,,apples-pinklady,
+HPO,10/29/2020,other,1,84,net,,apples-pinklady,
+HPO,10/29/2020,Zaprionus indianus,1,32,asp,,apples-pinklady,
+HPO,10/29/2020,other,1,48,asp,,apples-pinklady,
+HPO,10/29/2020,Zaprionus indianus,2,57,net,,apples-pinklady,
+HPO,10/29/2020,other,2,38,net,,apples-pinklady,
+HPO,10/29/2020,Zaprionus indianus,2,54,asp,,apples-pinklady,
+HPO,10/29/2020,other,2,53,asp,,apples-pinklady,
+CM,11/10/2020,Zaprionus indianus,1,23,net,,apples-grannysmith,
+CM,11/10/2020,other,1,67,net,,apples-grannysmith,
+CM,11/10/2020,Zaprionus indianus,1,29,asp,,apples-grannysmith,
+CM,11/10/2020,other,1,113,asp,,apples-grannysmith,
+CM,11/10/2020,Zaprionus indianus,1,117,asp,mushy apples,apples-jonathon?,
+CM,11/10/2020,other,1,101,asp,,apples-jonathon?,
+CM,11/10/2020,Zaprionus indianus,1,59,net,,apples-jonathon?,
+CM,11/10/2020,other,1,81,net,,apples-jonathon?,
+HPO,11/11/2020,Zaprionus indianus,1,80,asp,,apples-pinklady,
+HPO,11/11/2020,other,1,68,asp,,apples-pinklady,
+HPO,11/11/2020,Zaprionus indianus,2,56,asp,,apples-pinklady,
+HPO,11/11/2020,other,2,75,asp,,apples-pinklady,
+HPO,11/11/2020,Zaprionus indianus,3,64,net,,apples-pinklady,
+HPO,11/11/2020,other,3,70,net,,apples-pinklady,
+HPO,11/23/2020,Zaprionus indianus,1,37,asp,,apples-pinklady,
+HPO,11/23/2020,other,1,66,asp,,apples-pinklady,
+HPO,11/23/2020,Zaprionus indianus,2,32,asp,,apples-pinklady,
+HPO,11/23/2020,other,2,57,asp,,apples-pinklady,
+HPO,11/23/2020,Zaprionus indianus,3,17,asp,,apples-pinklady,
+HPO,11/23/2020,other,3,64,asp,,apples-pinklady,
+CM,11/24/2020,Zaprionus indianus,1,24,asp,,apples,
+CM,11/24/2020,other,1,1063,asp,,apples,
+CM,12/8/2020,Zaprionus indianus-dead,1,1,asp,DEAD on capture,apples,
+CM,12/8/2020,other,1,131,asp,,apples,
+HPO,12/10/2020,Zaprionus indianus-dead,1,6,asp,DEAD on capture,apples-pinklady,
+HPO,12/10/2020,other,1,285,asp,,apples-pinklady,
+HPO,6/23/2021,Zaprionus indianus,1,0,asp,,peaches,
+HPO,6/23/2021,other,1,68,asp,4 female mel/sim removed ,peaches,
+HPO,6/23/2021,Zaprionus indianus,,0,net,,peaches,
+HPO,6/23/2021,other,,69,net,7 female mel/sim removed,peaches,
+CM,6/25/2021,Zaprionus indianus,,0,trap,,peaches,
+CM,6/25/2021,other,,33,trap,,peaches,
+HPO,7/14/2021,Zaprionus indianus,1,2,net,,peaches,
+HPO,7/14/2021,other,1,106,net,,peaches,
+CM,7/16/2021,Zaprionus indianus,,0,net+asp,URISE trip with bus incident,peaches,
+CM,7/16/2021,other,,63,net+asp,URISE trip with bus incident,peaches,
+HPO,8/4/2021,Zaprionus indianus,,20,net,,,
+HPO,8/4/2021,other,,819,net,,,
+CM,8/5/2021,Zaprionus indianus,,13,net,,,
+CM,8/5/2021,other,,470,net,,,
+CM,8/28/2021,Zaprionus indianus,,194,net,,,
+CM,8/28/2021,other,,277,net,,,
+HPO,8/28/2021,Zaprionus indianus,,375,net,,,
+HPO,8/28/2021,other,,84,net,,,
+HPO,8/28/2021,Zaprionus indianus,,357,net,,,
+HPO,8/28/2021,other,,76,net,,,
+HPO,8/28/2021,Zaprionus indianus,,38,net,,,
+HPO,9/8/2021,Zaprionus indianus,,210,mixed,class field trip,,
+HPO,9/8/2021,other,,230,mixed,class field trip,,
+CM,10/1/2021,Zaprionus indianus,,39,trap,trapped by Liam; ground,,
+CM,10/1/2021,other,,249,trap,trapped by Liam; ground,,
+HPO,10/9/2021,Zaprionus indianus,,21,,,,
+HPO,10/9/2021,other,,37,,,,
+CM,10/15/2021,Zaprionus indianus,,62,trap,trapped by Liam; ground,,
+CM,10/15/2021,other,,176,trap,trapped by Liam; ground,,
+CM,10/29/2021,Zaprionus indianus,,49,trap,trapped by Liam; ground,,
+CM,10/29/2021,other,,315,trap,trapped by Liam; ground,,
+CM,11/12/2021,Zaprionus indianus,,14,trap,"collected by liam, PE counted at UVA",,
+CM,11/12/2021,other,,145,trap,"collected by liam, PE counted at UVA",,
+HPO,11/14/2021,Zaprionus indianus,,0,asp,,,
+HPO,11/14/2021,other,,77,asp,,,
+HPO,11/14/2021,Zaprionus indianus,,16,asp,,,
+HPO,11/14/2021,Zaprionus indianus,,37,asp,,,
+HPO,11/14/2021,other,,0,asp,,,
+CM,11/20/2021,Zaprionus indianus,,3,asp,,,
+CM,11/20/2021,other,,328,asp,,,
+CM,6/21/2022,Zaprionus indianus,,1,,,,
+CM,6/21/2022,other,,750,,,,
+CM,7/5/2022,Zaprionus indianus,,2,,,,
+CM,7/5/2022,other,,865,,,,
+CM,7/19/2022,Zaprionus indianus,,1,,,,
+CM,7/19/2022,other,,212,,,,
+CM,8/2/2022,Zaprionus indianus,,17,,,,
+CM,8/2/2022,other,,565,,,,
+CM,8/30/2022,Zaprionus indianus,,309,,,,
+CM,8/30/2022,other,,531,,,,
+CM,11/8/2022,Zaprionus indianus,,48,,,,
+CM,11/8/2022,other,,60,,,,
+CM,11/17/2022,Zaprionus indianus,,1,,,,
+CM,11/17/2022,other,,31,,,,
+CM,11/29/2022,Zaprionus indianus,,0,,,,
+CM,11/29/2022,other,,38,,,,
+HPO,6/22/2022,Zaprionus indianus,1,0,net,,peaches,
+HPO,6/22/2022,other,1,6,net,,peaches,
+CM,6/23/2022,Zaprionus indianus,1,0,asp,,peaches,
+CM,6/23/2022,other,1,20,asp,,peaches,
+CM,6/23/2022,Zaprionus indianus,2,0,asp,,peaches,
+CM,6/23/2022,other,2,1,asp,,peaches,
+CM,6/23/2022,Zaprionus indianus,3,0,net,,peaches,
+CM,6/23/2022,other,3,21,net,,peaches,
+CM,6/23/2022,Zaprionus indianus,4,0,asp,,peaches,
+CM,6/23/2022,other,4,34,asp,,peaches,
+CM,6/23/2022,Zaprionus indianus,5,0,asp,,peaches,
+CM,6/23/2022,other,5,18,asp,,peaches,
+CM,6/23/2022,Zaprionus indianus,6,0,asp,,peaches,
+CM,6/23/2022,other,6,17,asp,,peaches,
+CM,6/23/2022,Zaprionus indianus,7,0,net,,peaches,
+CM,6/23/2022,other,7,8,net,,peaches,
+CM,6/24/2022,Zaprionus indianus,1,0,asp/net,,peaches,
+CM,6/24/2022,other,1,32,asp/net,,peaches,
+HPO,7/6/2022,Zaprionus indianus,1,0,trap,,peaches,
+HPO,7/6/2022,other,1,3,trap,,peaches,
+HPO,7/6/2022,Zaprionus indianus,2,0,net,,peaches,
+HPO,7/6/2022,other,2,6,net,,peaches,
+CM,7/14/2022,Zaprionus indianus,1,0,net,,peaches,
+CM,7/14/2022,other,1,159,net,,peaches,
+CM,7/14/2022,Zaprionus indianus,2,0,net,,peaches,
+CM,7/14/2022,other,2,33,net,,peaches,
+CM,7/14/2022,Zaprionus indianus,3,0,net,,peaches,
+CM,7/14/2022,other,3,82,net,,peaches,
+HPO,7/22/2022,Zaprionus indianus,1,0,asp,,peaches,
+HPO,7/22/2022,other,1,6,asp,,peaches,
+HPO,7/22/2022,Zaprionus indianus,2,2,asp,,peaches,
+HPO,7/22/2022,other,2,6,asp,,peaches,
+HPO,7/22/2022,Zaprionus indianus,3,0,net,,peaches,
+HPO,7/22/2022,other,3,2,net,,peaches,
+HPO,7/22/2022,Zaprionus indianus,4,1,net,,peaches,
+HPO,7/22/2022,other,4,0,net,,peaches,
+HPO,7/22/2022,Zaprionus indianus,5,1,asp,,peaches,
+HPO,7/22/2022,other,5,16,asp,,peaches,
+HPO,8/3/2022,Zaprionus indianus,1,1,net,,peaches,
+HPO,8/3/2022,other,1,1,net,,peaches,
+HPO,8/3/2022,Zaprionus indianus,2,0,asp,,peaches,
+HPO,8/3/2022,other,2,2,asp,,peaches,
+HPO,8/3/2022,Zaprionus indianus,3,3,asp,,peaches,
+HPO,8/3/2022,other,3,4,asp,,peaches,
+HPO,8/3/2022,Zaprionus indianus,4,4,asp,,peaches,
+HPO,8/3/2022,other,4,7,asp,,peaches,
+HPO,8/17/2022,Zaprionus indianus,1,3,net,,peaches,
+HPO,8/17/2022,other,1,3,net,,peaches,
+HPO,8/17/2022,Zaprionus indianus,2,51,net,,peaches,
+HPO,8/17/2022,other,2,34,net,,peaches,
+HPO,8/17/2022,Zaprionus indianus,3,7,net,,peaches,
+HPO,8/17/2022,other,3,2,net,,peaches,
+HPO,8/17/2022,Zaprionus indianus,4,8,net,,peaches,
+HPO,8/17/2022,other,4,11,net,,peaches,
+HPO,8/17/2022,Zaprionus indianus,5,58,net,,peaches,
+HPO,8/17/2022,other,5,28,net,,peaches,
+HPO,8/17/2022,Zaprionus indianus,6,43,net,,peaches,
+HPO,8/17/2022,other,6,20,net,,peaches,
+HPO,8/17/2022,Zaprionus indianus,7,88,net,,peaches,
+HPO,8/17/2022,other,7,21,net,,peaches,
+HPO,8/17/2022,Zaprionus indianus,8,7,net,,peaches,
+HPO,8/17/2022,other,8,8,net,,peaches,
+HPO,8/17/2022,Zaprionus indianus,9,28,net,,peaches,
+HPO,8/17/2022,other,9,13,net,,peaches,
+HPO,8/17/2022,Zaprionus indianus,10,5,net,,apples,
+HPO,8/17/2022,other,10,1,net,,apples,
+CM,8/19/2022,Zaprionus indianus,1,53,net,,peaches,
+CM,8/19/2022,other,1,51,net,,peaches,
+CM,8/19/2022,Zaprionus indianus,2,13,net,,peaches,
+CM,8/19/2022,other,2,46,net,,peaches,
+CM,8/19/2022,Zaprionus indianus,3,33,net,,peaches,
+CM,8/19/2022,other,3,49,net,,peaches,
+CM,8/19/2022,Zaprionus indianus,4,11,net,,peaches,
+CM,8/19/2022,other,4,95,net,,peaches,
+CM,8/19/2022,Zaprionus indianus,5,36,net,,peaches,
+CM,8/19/2022,other,5,44,net,,peaches,
+CM,8/19/2022,Zaprionus indianus,6,22,net,,peaches,
+CM,8/19/2022,other,6,74,net,,peaches,
+CM,8/19/2022,Zaprionus indianus,8,10,net,,peaches,
+CM,8/19/2022,other,8,58,net,,peaches,
+CM,8/19/2022,Zaprionus indianus,9,29,net,,peaches,
+CM,8/19/2022,other,9,76,net,,peaches,
+CM,8/19/2022,Zaprionus indianus,10,27,net,,peaches,
+CM,8/19/2022,other,10,91,net,,peaches,
+HPO,9/1/2022,Zaprionus indianus,1,1,net,,apples,
+HPO,9/1/2022,other,1,0,net,,apples,
+HPO,9/1/2022,Zaprionus indianus,2,4,net,,apples,
+HPO,9/1/2022,other,2,0,net,,apples,
+HPO,9/1/2022,Zaprionus indianus,3,5,net,,apples,
+HPO,9/1/2022,other,3,1,net,,apples,
+HPO,9/1/2022,Zaprionus indianus,4,51,net,,apples,
+HPO,9/1/2022,other,4,3,net,,apples,
+HPO,9/1/2022,Zaprionus indianus,5,3,net,,apples,
+HPO,9/1/2022,other,5,0,net,,apples,
+HPO,9/1/2022,Zaprionus indianus,6,9,net,,apples,
+HPO,9/1/2022,other,6,1,net,,apples,
+HPO,9/1/2022,Zaprionus indianus,7,8,asp,,apples,
+HPO,9/1/2022,other,7,0,asp,,apples,
+HPO,9/1/2022,Zaprionus indianus,8,17,asp,,apples,
+HPO,9/1/2022,other,8,1,asp,,apples,
+HPO,9/1/2022,Zaprionus indianus,9,2,asp,,apples,
+HPO,9/1/2022,other,9,2,asp,,apples,
+HPO,9/1/2022,Zaprionus indianus,10,12,asp,,apples,
+HPO,9/1/2022,other,10,0,asp,,apples,
+HPO,9/22/2022,Zaprionus indianus,1,15,asp,,apples,
+HPO,9/22/2022,other,1,1,asp,,apples,
+HPO,9/22/2022,Zaprionus indianus,2,11,asp,,apples,
+HPO,9/22/2022,other,2,1,asp,,apples,
+HPO,9/22/2022,Zaprionus indianus,3,5,asp,,apples,
+HPO,9/22/2022,other,3,6,asp,,apples,
+HPO,9/22/2022,Zaprionus indianus,4,8,asp,,apples,
+HPO,9/22/2022,other,4,1,asp,,apples,
+HPO,9/22/2022,Zaprionus indianus,5,10,asp,,apples,
+HPO,9/22/2022,other,5,8,asp,,apples,
+HPO,9/22/2022,Zaprionus indianus,6,5,net,,apples,
+HPO,9/22/2022,other,6,1,net,,apples,
+HPO,9/22/2022,Zaprionus indianus,7,1,net,,apples,
+HPO,9/22/2022,other,7,1,net,,apples,
+HPO,9/22/2022,Zaprionus indianus,8,8,net,,apples,
+HPO,9/22/2022,other,8,1,net,,apples,
+HPO,9/22/2022,Zaprionus indianus,9,5,net,,apples,
+HPO,9/22/2022,other,9,1,net,,apples,
+HPO,9/22/2022,Zaprionus indianus,10,24,net,,apples,
+HPO,9/22/2022,other,10,0,net,,apples,
+HC,9/30/2022,Zaprionus indianus,1,27,net,,apples,lat
+HC,9/30/2022,other,1,5,net,,apples,lat
+HC,9/30/2022,Zaprionus indianus,2,23,net,,apples,lat
+HC,9/30/2022,other,2,16,net,,apples,lat
+HC,9/30/2022,Zaprionus indianus,3,23,net,,apples,lat
+HC,9/30/2022,other,3,24,net,,apples,lat
+HC,9/30/2022,Zaprionus indianus,4,32,net,,apples,lat
+HC,9/30/2022,other,4,28,net,,apples,lat
+HC,9/30/2022,Zaprionus indianus,5,22,net,,apples,lat
+HC,9/30/2022,other,5,20,net,,apples,lat
+HC,9/30/2022,Zaprionus indianus,6,21,net,,apples,lat
+HC,9/30/2022,other,6,3,net,,apples,lat
+HC,9/30/2022,Zaprionus indianus,7,11,net,,apples,lat
+HC,9/30/2022,other,7,8,net,,apples,lat
+HC,9/30/2022,Zaprionus indianus,8,118,net,,apples,lat
+HC,9/30/2022,other,8,57,net,,apples,lat
+RAB,9/30/2022,Zaprionus indianus,1,1,net,,apples,lat
+RAB,9/30/2022,other,1,64,net,,apples,lat
+RAB,9/30/2022,Zaprionus indianus,2,7,net,,apples,lat
+RAB,9/30/2022,other,2,60,net,,apples,lat
+RAB,9/30/2022,Zaprionus indianus,3,26,net,,apples,lat
+RAB,9/30/2022,other,3,30,net,,apples,lat
+RAB,9/30/2022,Zaprionus indianus,4,12,net,,apples,lat
+RAB,9/30/2022,other,4,18,net,,apples,lat
+RAB,9/30/2022,Zaprionus indianus,5,16,net,,apples,lat
+RAB,9/30/2022,other,5,8,net,,apples,lat
+RAB,9/30/2022,Zaprionus indianus,6,30,net,,apples,lat
+RAB,9/30/2022,other,6,28,net,,apples,lat
+RAB,9/30/2022,Zaprionus indianus,7,18,net,,apples,lat
+RAB,9/30/2022,other,7,18,net,,apples,lat
+RAB,9/30/2022,Zaprionus indianus,8,2,net,,apples,lat
+RAB,9/30/2022,other,8,127,net,,apples,lat
+RAB,9/30/2022,Zaprionus indianus,9,22,net,,apples,lat
+RAB,9/30/2022,other,9,51,net,,apples,lat
+RAB,9/30/2022,Zaprionus indianus,10,12,net,,apples,lat
+RAB,9/30/2022,other,10,108,net,,apples,lat
+RAB,9/30/2022,Zaprionus indianus,11,17,net,,apples,lat
+RAB,9/30/2022,other,11,24,net,,apples,lat
+FSP,10/2/2022,Zaprionus indianus,1,1,net,,bael,lat
+FSP,10/2/2022,other,1,39,net,,bael,lat
+FSP,10/2/2022,Zaprionus indianus,2,45,net,,papaya,lat
+FSP,10/2/2022,other,2,54,net,,papaya,lat
+FSP,10/2/2022,Zaprionus indianus,3,29,net,,papaya,lat
+FSP,10/2/2022,other,3,75,net,,papaya,lat
+FSP,10/2/2022,Zaprionus indianus,4,4,net,,breadfruit,lat
+FSP,10/2/2022,other,4,72,net,,breadfruit,lat
+FSP,10/2/2022,Zaprionus indianus,5,140,net,,hog plum,lat
+FSP,10/2/2022,other,5,109,net,,hog plum,lat
+FSP,10/2/2022,Zaprionus indianus,6,28,net,,hog plum,lat
+FSP,10/2/2022,other,6,38,net,,hog plum,lat
+FSP,10/2/2022,Zaprionus indianus,7,64,net,,hog plum,lat
+FSP,10/2/2022,other,7,115,net,,hog plum,lat
+FSP,10/2/2022,Zaprionus indianus,8,49,net,,sunsapote,lat
+FSP,10/2/2022,other,8,53,net,,sunsapote,lat
+FSP,10/2/2022,Zaprionus indianus,9,5,net,,avocado,lat
+FSP,10/2/2022,other,9,193,net,,avocado,lat
+FSP,10/2/2022,Zaprionus indianus,10,3,net,,avocado,lat
+FSP,10/2/2022,other,10,178,net,,avocado,lat
+FSP,10/2/2022,Zaprionus indianus,11,62,net,,marula,lat
+FSP,10/2/2022,other,11,57,net,,marula,lat
+FSP,10/2/2022,Zaprionus indianus,12,56,net,,marula,lat
+FSP,10/2/2022,other,12,43,net,,marula,lat
+FSP,10/2/2022,Zaprionus indianus,13,52,net,,starfruit,lat
+FSP,10/2/2022,other,13,88,net,,starfruit,lat
+FSP,10/2/2022,Zaprionus indianus,14,63,net,,starfruit,lat
+FSP,10/2/2022,other,14,178,net,,starfruit,lat
+FSP,10/2/2022,Zaprionus indianus,15,83,net,,starfruit,lat
+FSP,10/2/2022,other,15,211,net,,starfruit,lat
+HPO,10/6/2022,Zaprionus indianus,1,12,asp,,apples,lat
+HPO,10/6/2022,other,1,5,asp,,apples,lat
+HPO,10/6/2022,Zaprionus indianus,2,13,net,,apples,lat
+HPO,10/6/2022,other,2,10,net,,apples,lat
+HPO,10/6/2022,Zaprionus indianus,3,8,net,,apples,lat
+HPO,10/6/2022,other,3,7,net,,apples,lat
+HPO,10/6/2022,Zaprionus indianus,4,6,net,,apples,lat
+HPO,10/6/2022,other,4,3,net,,apples,lat
+HPO,10/6/2022,Zaprionus indianus,5,16,net,,apples,lat
+HPO,10/6/2022,other,5,7,net,,apples,lat
+HPO,10/6/2022,Zaprionus indianus,6,7,net,,apples,lat
+HPO,10/6/2022,other,6,5,net,,apples,lat
+HPO,10/6/2022,Zaprionus indianus,7,6,net,,apples,lat
+HPO,10/6/2022,other,7,8,net,,apples,lat
+HPO,10/6/2022,Zaprionus indianus,8,9,net,,apples,lat
+HPO,10/6/2022,other,8,2,net,,apples,lat
+HPO,10/6/2022,Zaprionus indianus,9,21,asp,,apples,lat
+HPO,10/6/2022,other,9,9,asp,,apples,lat
+HPO,10/6/2022,Zaprionus indianus,10,15,asp,,apples,lat
+HPO,10/6/2022,other,10,7,asp,,apples,lat
+Hansel,10/8/2022,Zaprionus indianus,1,0,net,,apples,lat
+Hansel,10/8/2022,other,1,13,net,,apples,lat
+RR,10/8/2022,Zaprionus indianus,1,0,net,,apples,lat
+RR,10/8/2022,other,1,6,net,,apples,lat
+RR,10/8/2022,Zaprionus indianus,2,0,net,,apples,lat
+RR,10/8/2022,other,2,14,net,,apples,lat
+Carver Hill,10/12/2022,Zaprionus indianus,1,1,net,,apples,lat
+Carver Hill,10/12/2022,other,1,43,net,,apples,lat
+Carver Hill,10/12/2022,Zaprionus indianus,2,0,net,,apples,lat
+Carver Hill,10/12/2022,other,2,6,net,,apples,lat
+Carver Hill,10/12/2022,Zaprionus indianus,3,0,net/asp,,apples,lat
+Carver Hill,10/12/2022,other,3,16,net/asp,,apples,lat
+Carver Hill,10/12/2022,Zaprionus indianus,4,3,net,,apples,lat
+Carver Hill,10/12/2022,other,4,35,net,,apples,lat
+Carver Hill,10/12/2022,Zaprionus indianus,5,0,net,,apples,lat
+Carver Hill,10/12/2022,other,5,49,net,,apples,lat
+Carver Hill,10/12/2022,Zaprionus indianus,6,4,net,,peaches,lat
+Carver Hill,10/12/2022,other,6,33,net,,peaches,lat
+HPH,10/12/2022,Zaprionus indianus,1,1,net,,pears,lat
+HPH,10/12/2022,other,1,10,net,,pears,lat
+HPH,10/12/2022,Zaprionus indianus,2,0,net,,apples,lat
+HPH,10/12/2022,other,2,4,net,,apples,lat
+HPH,10/12/2022,Zaprionus indianus,3,0,net,,apples,lat
+HPH,10/12/2022,other,3,47,net,,apples,lat
+HPH,10/12/2022,Zaprionus indianus,4,0,net,,apples,lat
+HPH,10/12/2022,other,4,23,net,,apples,lat
+HPH,10/12/2022,Zaprionus indianus,5,0,net,,pears,lat
+HPH,10/12/2022,other,5,12,net,,pears,lat
+HPH,10/12/2022,Zaprionus indianus,6,2,net,,apples,lat
+HPH,10/12/2022,other,6,59,net,,apples,lat
+HPH,10/12/2022,Zaprionus indianus,7,0,net,,pears,lat
+HPH,10/12/2022,other,7,34,net,,pears,lat
+HPH,10/12/2022,Zaprionus indianus,8,1,net,,apples,lat
+HPH,10/12/2022,other,8,78,net,,apples,lat
+HPH,10/12/2022,Zaprionus indianus,9,0,net,,apples,lat
+HPH,10/12/2022,other,9,13,net,,apples,lat
+HPH,10/12/2022,Zaprionus indianus,10,1,net,,apples,lat
+HPH,10/12/2022,other,10,18,net,,apples,lat
+HPH,10/12/2022,Zaprionus indianus,11,0,net,,apples,lat
+HPH,10/12/2022,other,11,55,net,,apples,lat
+HPH,10/12/2022,Zaprionus indianus,12,0,net,,apples,lat
+HPH,10/12/2022,other,12,36,net,,apples,lat
+HPH,10/12/2022,Zaprionus indianus,13,1,net,,apples,lat
+HPH,10/12/2022,other,13,12,net,,apples,lat
+HPH,10/12/2022,Zaprionus indianus,14,1,net,,apples,lat
+HPH,10/12/2022,other,14,26,net,,apples,lat
+Westward,10/12/2022,Zaprionus indianus,1,1,net,,compost,lat
+Westward,10/12/2022,other,1,85,net,,compost,lat
+Westward,10/12/2022,Zaprionus indianus,2,0,net,,compost,lat
+Westward,10/12/2022,other,2,181,net,,compost,lat
+Westward,10/12/2022,Zaprionus indianus,3,0,net,,compost,lat
+Westward,10/12/2022,other,3,127,net,,compost,lat
+Westward,10/12/2022,Zaprionus indianus,4,1,net,,compost,lat
+Westward,10/12/2022,other,4,95,net,,compost,lat
+Lyman,10/13/2022,Zaprionus indianus,1,14,asp,,apples,lat
+Lyman,10/13/2022,other,1,5,asp,,apples,lat
+Lyman,10/13/2022,Zaprionus indianus,2,10,net,,apples,lat
+Lyman,10/13/2022,other,2,6,net,,apples,lat
+Lyman,10/13/2022,Zaprionus indianus,3,19,net,,apples,lat
+Lyman,10/13/2022,other,3,6,net,,apples,lat
+Lyman,10/13/2022,Zaprionus indianus,4,69,asp,,apples,lat
+Lyman,10/13/2022,other,4,48,asp,,apples,lat
+Lyman,10/13/2022,Zaprionus indianus,5,26,asp,,apples,lat
+Lyman,10/13/2022,other,5,7,asp,,apples,lat
+Lyman,10/13/2022,Zaprionus indianus,6,71,asp,,apples,lat
+Lyman,10/13/2022,other,6,33,asp,,apples,lat
+Lyman,10/13/2022,Zaprionus indianus,7,91,asp,,apples,lat
+Lyman,10/13/2022,other,7,41,asp,,apples,lat
+Linvilla,10/14/2022,Zaprionus indianus,1,5,asp,,apples,lat
+Linvilla,10/14/2022,other,1,34,asp,,apples,lat
+Linvilla,10/14/2022,Zaprionus indianus,2,1,asp,,apples,lat
+Linvilla,10/14/2022,other,2,31,asp,,apples,lat
+Linvilla,10/14/2022,Zaprionus indianus,3,4,asp,,apples,lat
+Linvilla,10/14/2022,other,3,29,asp,,apples,lat
+Linvilla,10/14/2022,Zaprionus indianus,4,6,asp,,apples,lat
+Linvilla,10/14/2022,other,4,57,asp,,apples,lat
+Linvilla,10/14/2022,Zaprionus indianus,5,4,asp,,apples,lat
+Linvilla,10/14/2022,other,5,37,asp,,apples,lat
+Linvilla,10/14/2022,Zaprionus indianus,6,25,asp,,peaches,lat
+Linvilla,10/14/2022,other,6,33,asp,,peaches,lat
+Linvilla,10/14/2022,Zaprionus indianus,7,34,asp,,peaches,lat
+Linvilla,10/14/2022,other,7,16,asp,,peaches,lat
+Linvilla,10/14/2022,Zaprionus indianus,8,31,asp,,peaches,lat
+Linvilla,10/14/2022,other,8,26,asp,,peaches,lat
+Linvilla,10/14/2022,Zaprionus indianus,9,55,asp,,peaches,lat
+Linvilla,10/14/2022,other,9,74,asp,,peaches,lat
+Linvilla,10/14/2022,Zaprionus indianus,10,53,asp,,peaches,lat
+Linvilla,10/14/2022,other,10,21,asp,,peaches,lat
+Linvilla,10/14/2022,Zaprionus indianus,11,67,asp,,peaches,lat
+Linvilla,10/14/2022,other,11,21,asp,,peaches,lat
+Linvilla,10/14/2022,Zaprionus indianus,12,44,asp,,peaches,lat
+Linvilla,10/14/2022,other,12,60,asp,,peaches,lat
+Linvilla,10/14/2022,Zaprionus indianus,13,30,asp,,peaches,lat
+Linvilla,10/14/2022,other,13,58,asp,,peaches,lat
+HPO,10/20/2022,Zaprionus indianus,1,10,net,,apples,
+HPO,10/20/2022,other,1,0,net,,apples,
+HPO,10/20/2022,Zaprionus indianus,2,13,net,,apples,
+HPO,10/20/2022,other,2,1,net,,apples,
+HPO,10/20/2022,Zaprionus indianus,3,15,net,,apples,
+HPO,10/20/2022,other,3,0,net,,apples,
+HPO,10/20/2022,Zaprionus indianus,4,15,asp,,apples,
+HPO,10/20/2022,other,4,0,asp,,apples,
+HPO,10/20/2022,Zaprionus indianus,5,30,asp,,apples,
+HPO,10/20/2022,other,5,1,asp,,apples,
+HPO,10/20/2022,Zaprionus indianus,6,13,asp,,apples,
+HPO,10/20/2022,other,6,1,asp,,apples,
+HPO,10/20/2022,Zaprionus indianus,7,17,net,,apples,
+HPO,10/20/2022,other,7,2,net,,apples,
+HPO,10/20/2022,Zaprionus indianus,8,7,net,,apples,
+HPO,10/20/2022,other,8,2,net,,apples,
+HPO,10/20/2022,Zaprionus indianus,9,11,net,,apples,
+HPO,10/20/2022,other,9,2,net,,apples,
+HPO,10/20/2022,Zaprionus indianus,10,17,net,,apples,
+HPO,10/20/2022,other,10,0,net,,apples,
+HPO,10/20/2022,Zaprionus indianus,11,10,asp,,apples,
+HPO,10/20/2022,other,11,2,asp,,apples,
+HPO,11/9/2022,Zaprionus indianus,1,16,net,,apples,
+HPO,11/9/2022,other,1,6,net,,apples,
+HPO,11/9/2022,Zaprionus indianus,2,40,asp,,apples,
+HPO,11/9/2022,other,2,8,asp,,apples,
+HPO,11/9/2022,Zaprionus indianus,3,12,net,,apples,
+HPO,11/9/2022,other,3,2,net,,apples,
+HPO,11/9/2022,Zaprionus indianus,4,11,net,,apples,
+HPO,11/9/2022,other,4,3,net,,apples,
+HPO,11/9/2022,Zaprionus indianus,5,29,net,,apples,
+HPO,11/9/2022,other,5,3,net,,apples,
+HPO,11/9/2022,Zaprionus indianus,6,28,net,,apples,
+HPO,11/9/2022,other,6,5,net,,apples,
+HPO,11/9/2022,Zaprionus indianus,7,31,net,,apples,
+HPO,11/9/2022,other,7,4,net,,apples,
+HPO,11/9/2022,Zaprionus indianus,8,26,asp,,apples,
+HPO,11/9/2022,other,8,5,asp,,apples,
+HPO,11/9/2022,Zaprionus indianus,9,17,asp,,apples,
+HPO,11/9/2022,other,9,5,asp,,apples,
+HPO,11/9/2022,Zaprionus indianus,10,11,asp,,apples,
+HPO,11/9/2022,other,10,10,asp,,apples,
+HPO,11/9/2022,Zaprionus indianus,11,41,net,,apples,
+HPO,11/9/2022,other,11,5,net,,apples,
+HPO,11/9/2022,Zaprionus indianus,12,33,net,,apples,
+HPO,11/9/2022,other,12,7,net,,apples,
+HPO,11/17/2022,Zaprionus indianus,1,28,asp,,apples,
+HPO,11/17/2022,other,1,2,asp,,apples,
+HPO,11/17/2022,Zaprionus indianus,2,31,asp,,apples,
+HPO,11/17/2022,other,2,11,asp,,apples,
+HPO,11/17/2022,Zaprionus indianus,3,7,asp,,apples,
+HPO,11/17/2022,other,3,3,asp,,apples,
+HPO,11/17/2022,Zaprionus indianus,4,19,asp,,apples,
+HPO,11/17/2022,other,4,7,asp,,apples,
+HPO,11/17/2022,Zaprionus indianus,5,1,net,,apples,
+HPO,11/17/2022,other,5,4,net,,apples,
+HPO,11/29/2022,Zaprionus indianus,1,1,asp,,apples,
+HPO,11/29/2022,other,1,23,asp,,apples,
+HPO,11/29/2022,Zaprionus indianus,2,3,asp,,apples,
+HPO,11/29/2022,other,2,19,asp,,apples,
+HPO,11/29/2022,Zaprionus indianus,3,4,asp,,apples,
+HPO,11/29/2022,other,3,19,asp,,apples,
+HPO,11/29/2022,Zaprionus indianus,4,2,asp,,apples,
+HPO,11/29/2022,other,4,13,asp,,apples,
+HPO,11/29/2022,Zaprionus indianus,5,3,asp,,apples,
+HPO,11/29/2022,other,5,12,asp,,apples,
+HPO,12/14/2022,Zaprionus indianus,1,0,asp,,apples,
+HPO,12/14/2022,other,1,28,asp,,apples,
