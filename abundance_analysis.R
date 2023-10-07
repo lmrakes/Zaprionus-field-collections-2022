@@ -54,7 +54,7 @@ ggplot(z_seasonal,
   theme_cowplot() + 
   guides(linetype = "none")
 
-#ggsave("../Analysis/fig_2_new.tiff", device = "tiff", height = 96.8, width = 170, units = "mm", dpi = 600)
+ggsave("../Analysis/fig_2_new.tiff", device = "tiff", height = 96.8, width = 170, units = "mm", dpi = 600)
 
 
 ## Seasonal Abundance Binomial GLM
@@ -144,7 +144,7 @@ ggplot() +
   scale_fill_manual(values = c("#E1BE6A", "#40B0A6"), 
                     labels = c(expression(italic("Z. indianus")), "Other"))
 
-#ggsave("../Analysis/fig_1.tiff", device = "tiff", height = 79, width = 82, units = "mm", dpi = 600, scale = 1.1)
+ggsave("../Analysis/fig_1.tiff", device = "tiff", height = 79, width = 82, units = "mm", dpi = 600, scale = 1.1)
 
 
 # Apple vs peach analysis
