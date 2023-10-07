@@ -1,4 +1,4 @@
-# Spatial and temporal variation in abundance of introduced African fig fly (Zaprionus indianus) (Diptera: Drosophilidae) in the eastern United States
+# A small survey of introduced African fig fly (Zaprionus indianus) (Diptera: Drosophilidae) in orchards of the eastern United States
 ---
 
 This dataset contains counts of wild Drosophilids collected from locations in the eastern United States from 2020 to 2022. All flies were identified as Z. indianus or other species. 
